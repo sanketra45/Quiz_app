@@ -51,12 +51,12 @@
     font-size: 18px;
 }
 
-.Correct{
+.container .Correct{
     background: #dffff2;
     border-color: #00d397;
 }
 
-.Wrong{
+.container .Wrong{
     background: #FFEBEB;
     border-color: #FF4A4A;
 }
