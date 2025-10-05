@@ -18,7 +18,7 @@
 }
 
 .container h2{
-    font-size: 28;
+    font-size: 28px;
     font-weight: 500;
 }
 
@@ -41,7 +41,7 @@
     background : #553f9a;
     color: white;
     font-size: 25px;
-    font-weight: 50px;
+    font-weight: 500;
     border-radius: 10px;
     cursor: pointer;
 }

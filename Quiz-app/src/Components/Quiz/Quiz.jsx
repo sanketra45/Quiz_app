@@ -4,7 +4,7 @@ import './Quiz.css'
 const Quiz = () => {
   return (
     <div className='container'>
-      <h1>Quuiz App</h1>
+      <h1>Quiz App</h1>
       <hr />
       <h2>Which of the following is a frontend JavaScript framework?</h2>
       <ul>

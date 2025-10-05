@@ -1,10 +1,11 @@
 import React from 'react'
-import Quiz from './Components/Quiz/Quiz'
+import Quiz from './Components/Quiz/Quiz.jsx'
 
 const App = () => {
   return (
     <div>
-      <Quiz/>
+      <h1>Hello</h1>
+      <Quiz />
     </div>
   )
 }
