@@ -28,7 +28,7 @@
     height: 70px;
     padding-left: 15px;
     border: 1px solid #686868;
-    border-radius: 10px;
+    border-radius: 8px;
     margin-bottom: 20px;
     font-size: 20px;
     cursor: pointer;
@@ -42,11 +42,21 @@
     color: white;
     font-size: 25px;
     font-weight: 500;
-    border-radius: 10px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
 .container .index{
     margin: auto;
     font-size: 18px;
+}
+
+.Correct{
+    background: #dffff2;
+    border-color: #00d397;
+}
+
+.Wrong{
+    background: #FFEBEB;
+    border-color: #FF4A4A;
 }
